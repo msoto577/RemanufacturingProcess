@@ -17,7 +17,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.image("Remanufacturing_Process.png", caption="Remanufacturing Process", use_container_width=True)
+st.image("Remanufacturing_Process_v2.png", caption="Remanufacturing Process", use_container_width=True)
 
 
 # Parámetros de configuración
